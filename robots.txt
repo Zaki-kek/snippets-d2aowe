@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Zaki-kek.github.io/snippets-d2aowe/sitemap.xml
